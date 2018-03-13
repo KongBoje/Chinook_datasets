@@ -1,3 +1,3 @@
 # Chinook_datasets
 
-Her is my solution to this assignment
+Here is my solution to this assignment
